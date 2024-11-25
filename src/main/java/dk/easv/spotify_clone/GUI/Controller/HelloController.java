@@ -1,4 +1,4 @@
-package com.example.spotify_clone;
+package dk.easv.spotify_clone.GUI.Controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
